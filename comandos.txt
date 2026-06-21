@@ -1,5 +1,0 @@
-insertar D
-insertar B
-insertar F
-eliminar B
-insertar B
